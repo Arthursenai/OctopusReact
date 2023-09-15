@@ -10,7 +10,7 @@ const Header = () => {
             <div className={styles.p}>
               <p className={styles.p} href="/">Home</p>
               <p className={styles.p} href="/">About</p>
-              <p className={styles.p} href="/">Canhão</p>
+              <p className={styles.p} href="/">Login</p>
             </div>
         </header>
     );
