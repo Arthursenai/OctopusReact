@@ -8,9 +8,13 @@
     background-color: transparent;
     color: #393939;
 }
-.p{
+
+.pdiv{
     display: flex;
-    font-size: 25px;
+    margin-right: 50px;
+}
+.p{
+    font-size: 20px;
     margin: 5%;
     color: #393939;
 }
