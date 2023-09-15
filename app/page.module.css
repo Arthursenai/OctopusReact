@@ -1,19 +1,6 @@
-.header{
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 2em;
-    background-color: transparent;
-    color: #393939;
-}
-.links{
-    justify-content: space-between;
-    gap: 2em;
-    display: flex;
-    color: #393939;
-}
-.spacer{
-    margin: auto;
-    text-align: center;
+.bg{
+    background-color: rgb(195, 195, 225);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }

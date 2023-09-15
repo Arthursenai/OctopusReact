@@ -1,0 +1,21 @@
+
+.header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2em;
+    background-color: transparent;
+    color: #393939;
+}
+.p{
+    display: flex;
+    font-size: 25px;
+    margin: 5%;
+    color: #393939;
+}
+.spacer{
+    margin-top: 2%;
+    margin-left: 4%;
+}
+
